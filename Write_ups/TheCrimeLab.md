@@ -14,6 +14,8 @@ We’re currently in the midst of a murder investigation, and we’ve obtained t
 Within this Lab we have 6/6 questions to answer as we elevate our skills to the next level in analyzing Android device artifacts.
 So with that said lets dive into this awesome lab.
 
+![Lets Dive In Image](CrimelabImges/Lets.png)
+
 
 ### But first download the downloadable Lab file we are supposed to work with folks
 
