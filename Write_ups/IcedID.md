@@ -1,4 +1,4 @@
-#   ----------- # IcedID Lab  ---------
+# ----------- IcedID Lab  ---------
 
 ## Overview
 
@@ -65,17 +65,12 @@ Answer:: GOLD CABIN
 
 ## Qn. 6 In the Execution phase, what function does the malware employ to fetch extra payloads onto the system?
 
-Using Tria.ge tool : https://tria.ge/210330-gbdr6k9jxx, we will examine the execution phase for API function calls linked to file download behavior within the Malware Config section.
-
+Using Tria.ge tool : <https://tria.ge/210330-gbdr6k9jxx>, we will examine the execution phase for API function calls linked to file download behavior within the Malware Config section.
 
 ![Function used](IcedIDlabImges/7.png)
 
 Answer::  URLDownloadToFileA
 
-
-#   ----------- # CONGRATULATIONS ON COMPLETING THE LAB.. ---------
-
+# --- CONGRATULATIONS ON COMPLETING THE LAB ---------
 
 ![Congratulations ](IcedIDlabImges/8.png)
-
-
